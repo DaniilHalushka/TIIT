@@ -1,0 +1,5 @@
+﻿  Hashtable.cpp
+  biblio.cpp
+D:\PiOIvIS\Lab1\Hashtable\Hashtable\biblio.cpp(76,22): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+  Hashtable.vcxproj -> D:\PiOIvIS\Lab1\Hashtable\x64\Debug\Hashtable.exe

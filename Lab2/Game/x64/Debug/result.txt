@@ -1,0 +1,44 @@
+TEST NUMBER 1 
+Сравнение файлов game.out и 1.OUT
+FC: различия не найдены
+
+TEST NUMBER 2 
+Сравнение файлов game.out и 2.OUT
+FC: различия не найдены
+
+TEST NUMBER 3 
+Сравнение файлов game.out и 3.OUT
+FC: различия не найдены
+
+TEST NUMBER 4 
+Сравнение файлов game.out и 4.OUT
+FC: различия не найдены
+
+TEST NUMBER 5 
+Сравнение файлов game.out и 5.OUT
+FC: различия не найдены
+
+TEST NUMBER 6 
+Сравнение файлов game.out и 6.OUT
+FC: различия не найдены
+
+TEST NUMBER 7 
+Сравнение файлов game.out и 7.OUT
+FC: различия не найдены
+
+TEST NUMBER 8 
+Сравнение файлов game.out и 8.OUT
+FC: различия не найдены
+
+TEST NUMBER 9 
+Сравнение файлов game.out и 9.OUT
+FC: различия не найдены
+
+TEST NUMBER 10 
+Сравнение файлов game.out и 10.OUT
+FC: различия не найдены
+
+TEST NUMBER 11 
+Сравнение файлов game.out и 11.OUT
+FC: различия не найдены
+

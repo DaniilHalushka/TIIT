@@ -1,0 +1,5 @@
+﻿  Game.cpp
+D:\TIIT\Lab2\Game\Game\Game.cpp(174,33): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\TIIT\Lab2\Game\Game\Game.cpp(190,29): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\TIIT\Lab2\Game\Game\Game.cpp(195,33): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Game.vcxproj -> D:\TIIT\Lab2\Game\x64\Debug\Game.exe
